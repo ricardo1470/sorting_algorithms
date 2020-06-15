@@ -5,7 +5,7 @@
  *@array: value
  *@size: value
  * print_list - function to be printed
- * */
+ */
 void selection_sort(int *array, size_t size)
 {
 	size_t i, j, k;

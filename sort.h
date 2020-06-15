@@ -1,6 +1,9 @@
 #ifndef SHORT_H
 #define SHORT_H
 
+#include <stdio.h>
+#include <stdlib.h>
+
 /**
  * struct listint_s - Doubly linked list node
  *

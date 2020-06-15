@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * selection_sortt - function to order whyt the method selection
+ * selection_sort - function to order whyt the method selection
  *@array: value
  *@size: value
  * print_list - function to be printed

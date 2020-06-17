@@ -12,7 +12,7 @@ void quick_sort(int *array, size_t size)
 }
 
 /**
- * original_quick_sort - recursive sort function
+ * quicksort - recursive sort function
  * @array: pointer to the array
  * @size: array size
  * @hi: the hi

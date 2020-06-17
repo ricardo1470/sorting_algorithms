@@ -29,6 +29,8 @@ void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
 /*function that sorts an array of integers in ascending order Quick sort*/
 void quick_sort(int *array, size_t size);
+void quicksort(int *array, int hi, int lo, size_t size);
+size_t partition(int *array, int hi, int lo, size_t size);
 
 
 #endif /* SHORT_H */
